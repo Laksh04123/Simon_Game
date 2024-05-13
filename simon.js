@@ -1,6 +1,5 @@
 let gameSeq=[];
 let userSeq=[];
-let temp =[];
 
 let btns=["red","green","orange","purple"];
 
